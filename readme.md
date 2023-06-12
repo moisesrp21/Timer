@@ -24,4 +24,4 @@ $ timer --help
     ║     Remaining 00h:00m:05s     ║
     ╙───────────────────────────────╜
 ```
-<img src="./timer.gif" style="text-align:center" width="400" height="600" />
+<img src="./timer.gif" style="text-align:center" width="100%" height="100%" />

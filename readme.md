@@ -13,13 +13,15 @@ $ npm install --global timer
 ```
 $ timer --help
 
-  Usage
-    $ timer
-
   Options
-    --name  Your name
+    --secs=<number of seconds>
 
   Examples
-    $ timer --name=Jane
-    Hello, Jane
+    $ timer --name=5
+   Hello, Jane
+    ╓───────────────────────────────╖
+    ║     Timer for 00h:00m:05s     ║
+    ║     Remaining 00h:00m:05s     ║
+    ╙───────────────────────────────╜
 ```
+<img src="./timer.gif" style="text-align:center" width="400" height="600" />
